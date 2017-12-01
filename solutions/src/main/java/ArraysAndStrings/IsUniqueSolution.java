@@ -1,5 +1,7 @@
+package ArraysAndStrings;
+
 // Question 1.1
-public class IsUnique {
+public class IsUniqueSolution {
   public static boolean isUnique0(String str) {
     if (str == null) {
       return true;

@@ -1,4 +1,4 @@
-package com.travisemichael.ctci.ArraysAndStrings;
+package ArraysAndStrings;
 
 // Question 1.1
 public class IsUnique {

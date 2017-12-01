@@ -1,6 +1,5 @@
 package ArraysAndStrings;
 
-import com.travisemichael.ctci.ArraysAndStrings.CheckPermutation;
 import org.junit.Test;
 
 import static org.junit.Assert.assertFalse;

@@ -1,5 +1,7 @@
+package ArraysAndStrings;
+
 // Question 1.2
-public class CheckPermutation {
+public class CheckPermutationSolution {
   public static boolean isPermutation(String s1, String s2) {
     if (s1 == null && s2 == null) {
       return true;

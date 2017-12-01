@@ -1,6 +1,5 @@
 package ArraysAndStrings;
 
-import com.travisemichael.ctci.ArraysAndStrings.IsUnique;
 import org.junit.Test;
 
 import static org.junit.Assert.assertFalse;
