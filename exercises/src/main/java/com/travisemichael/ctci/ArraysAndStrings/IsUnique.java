@@ -1,6 +1,7 @@
 package com.travisemichael.ctci.ArraysAndStrings;
 
-public class Question01 {
+// Question 1.1
+public class IsUnique {
   public static boolean isUnique0(String str) {
     if (str == null) {
       return true;
