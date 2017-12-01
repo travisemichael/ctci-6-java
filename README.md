@@ -1,2 +1,2 @@
 # Cracking the Coding Interview 6th Edition
-## Java solutions and test cases
+Java templates, solutions, and test cases
